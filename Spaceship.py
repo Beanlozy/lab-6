@@ -1,5 +1,5 @@
 class Spaceship:
-    # Constructor to create an instance of a Spaceship
+    
     def __init__(self, make, model):
         self.MAKE = make
         self.MODEL = model
