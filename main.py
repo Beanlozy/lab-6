@@ -25,7 +25,7 @@ ship.set_fuel(0)
 print("Remaining Fuel:", ship.get_fuel())
 print("Oh no, the spaceship ran out of fuel... Now how will I get to space?")
 
-# Task 5
+
 new_ship = Spaceship("NASA", "Explorer")
 new_ship.power()
 print(new_ship)
