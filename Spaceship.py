@@ -1,5 +1,4 @@
 class Spaceship:
-    
     def __init__(self, make, model):
         self.MAKE = make
         self.MODEL = model
